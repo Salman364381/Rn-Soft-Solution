@@ -1,0 +1,35 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+.service-widget:hover {
+transform: scale(0.99);
+}
+.social-box ul li a i {
+    transition: 1s all;
+}
+.fa.fa-facebook-square {
+    background-color: white;
+    color: blue;
+}
+.fa.fa-linkedin-square {
+    background-color: white;
+    color: blue;
+}
+.fa.fa-twitter-square {
+    color: white;
+    background-color: blue;
+}
+.fa.fa-instagram {
+	background:linear-gradient(to bottom, #f00 0%, #ffdb00 100%);
+	color:
+}
+.fa.fa-rss-square {
+    color: #FD7800;
+    background-color: white;
+}
+
+
+.global-radius.icon_wrap.effect-1 .flaticon-happy:hover {
+    background-image: url(../images/happy.gif);
+    background-position: center;
+    background-size: contain;
+}
